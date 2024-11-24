@@ -20,7 +20,7 @@ The application is _almost_ **production ready**.
 Step 1: Clone the repo
 
 ```bash
-git https://github.com/rajat-mish/RBAC-Project.git
+git clone https://github.com/rajat-mish/RBAC-Project.git
 ```
 
 Step 2: cd into the cloned repo and run:
